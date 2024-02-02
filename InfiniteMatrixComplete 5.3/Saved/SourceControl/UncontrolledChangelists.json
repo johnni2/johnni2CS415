@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/johnn/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/johnn/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/johnn/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/johnn/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/UI/HealthHUD.uasset",
+				"C:/Users/johnn/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/BP_HealthPacks.uasset",
+				"C:/Users/johnn/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 5.3/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/johnn/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 5.3/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/johnn/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/johnn/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/BP_Enemies.uasset",
+				"C:/Users/johnn/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/BP_Enemies1.uasset",
+				"C:/Users/johnn/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/johnn/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/HealthBar.uasset",
+				"C:/Users/johnn/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/HealthBarHUD.uasset"
+			]
+		}
+	]
+}
